@@ -1,0 +1,1 @@
+# deprem-ve-yapay-zeka
